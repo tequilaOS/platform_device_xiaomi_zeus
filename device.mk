@@ -14,6 +14,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     FrameworksResZeus \
     SettingsResZeus \
+    SystemUIResZeus \
     WifiResZeus
 
 # Sensors
