@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zeus.mk
+    $(LOCAL_DIR)/tequila_zeus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zeus-user \
-    lineage_zeus-userdebug \
-    lineage_zeus-eng
+    tequila_zeus-user \
+    tequila_zeus-userdebug \
+    tequila_zeus-eng
