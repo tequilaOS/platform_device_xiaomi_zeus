@@ -1,3 +1,5 @@
+# All unpinned blobs are extracted from zeus V14.0.7.0.TLBMIXM
+
 # ACDB
 vendor/etc/acdbdata/Mise_elus/Mise_elus_acdb_cal.acdb
 vendor/etc/acdbdata/Mise_elus/Mise_elus_workspaceFileXml.qwsp
